@@ -1,0 +1,6 @@
+__pycache__
+outputs/
+artifacts/
+wandb/
+.pytest_cache/
+mlruns/
