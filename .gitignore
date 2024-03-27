@@ -4,3 +4,4 @@ artifacts/
 wandb/
 .pytest_cache/
 mlruns/
+*.ipynb
